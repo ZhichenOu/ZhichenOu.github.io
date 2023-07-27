@@ -1,7 +1,6 @@
 ---
 layout:page
 title:""
-
 ---
 
 Welcome to my page!
