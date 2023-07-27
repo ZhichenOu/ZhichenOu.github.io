@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/blog.md",title: "Blog"}
-  - {file: "/Zhichen Ou.pdf",title: "CV"}
-  - {file: "/Research Paper.pdf",title: "Research Paper"}
+  - {file: "blog.md",title: "Blog"}
+  - {file: "Zhichen Ou.pdf",title: "CV"}
+  - {file: "Research Paper.pdf",title: "Research Paper"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:aprilozc77@gamil.com"}
