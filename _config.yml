@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "https://zhichenou.github.io/Zhichen_Ou.pdf"}
   - {title: "Research Paper", url: "https://zhichenou.github.io/Research_Paper.pdf"}
-  - {title: "About me", file:"/about_me.md"}
+  - {title: "About me", file:"about_me.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:aprilozc77@gamil.com"}
