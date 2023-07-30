@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-I am a big fan of flowers. The weather was so good during the day in Netherlands.
+I am a big fan of flowers. The weather was so good during the days in Netherlands.
 
 ## Tulips
 
