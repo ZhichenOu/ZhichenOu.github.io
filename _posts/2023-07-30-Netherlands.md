@@ -25,7 +25,5 @@ I am a big fan of flowers. The weather was so good during the day in Netherlands
 <img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/096e7083-4ea6-4c1d-980f-740bc5a1d6a4" width="200">
 <img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/d72e1141-5c2b-4400-ac55-0968a1d56044" width="200">
 <img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/2afc14cc-c383-4b66-9aff-333d8eee5ea3" width="200">
-<img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/a466acf8-08d7-46cd-b198-d733d5b444a4" width="200">
 <img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/dd1da615-dd2d-4fbc-a237-0005f7966759" width="200">
-
-
+<img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/7a6786b4-059c-49fe-a676-88b0c55045f3" width="200">
