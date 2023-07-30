@@ -9,5 +9,3 @@ title: "About Me"
   {% include archive.html title="Posts" %}
 {% endif %}
 
-
-Here are the photos.
