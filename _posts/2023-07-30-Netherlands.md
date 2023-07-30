@@ -15,4 +15,5 @@ categories: media
 <img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/14b7c34f-6b38-4f99-858b-9287a26fc807" width="200">
 <img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/c344f0b8-5d6b-4683-b999-06d3df04ab37" width="200">
 <img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/bb3d02be-2744-4908-a6b0-1b310389a36d" width="200">
+<img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/81888b25-84ca-4983-9e85-e5f313e73c60" width="200">
 
