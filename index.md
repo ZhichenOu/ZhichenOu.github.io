@@ -11,4 +11,4 @@ My study interest lies in Corporate Finance, Accounting and Applied Microeconomi
 
 I live in Bonn now, a cozy and beautiful city. In my spare time, I usually play badminton and do some aerobic exercise.😎
 
-I love reading novels, especially detective novels, my favourite author is Keigo Higashino.📖
+I love reading novels, especially detective novels, my favourite author is [Keigo Higashino](https://en.wikipedia.org/wiki/Keigo_Higashino).📖
