@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", url: "https://github.com/ZhichenOu/ZhichenOu.github.io/blob/08e36f4ce191d43a5312153e130a9e3a87d94744/Zhichen_Ou.pdf"}
+  - {title: "CV", url: "https://ZhichenOu.github.io/Zhichen_Ou.pdf"}
   - {title: "Research Paper", url: "https://zhichenou.github.io/Research_Paper.pdf"}
   - {title: "About me", file:"aboutme.md"}
 
