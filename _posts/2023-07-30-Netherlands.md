@@ -5,6 +5,8 @@ layout: post
 categories: media
 ---
 
+I am a big fan of flowers. The weather was so good during the day in Netherlands.
+
 ## Tulips
 
 <img src="https://github.com/ZhichenOu/ZhichenOu.github.io/assets/140627294/6fc9b9ee-81c4-4ba2-a4e7-290bdc9ac316" width="200">
