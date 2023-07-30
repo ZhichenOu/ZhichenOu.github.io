@@ -1,5 +1,5 @@
 ---
-title:  "Photos"
+title:  "Netherlands"
 mathjax: true
 layout: post
 categories: media
