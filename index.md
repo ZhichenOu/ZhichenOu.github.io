@@ -5,7 +5,7 @@ title: ""
 
 Welcome to my page! This is Zhichen.😊
 
-I'm currently an Economics student at University of Bonn. This is my second year in Germany and I'm about to graduate next year.🎓
+I'm currently an Economics student at [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn). This is my second year in Germany and I'm about to graduate next year.🎓
 
 My study interest lies in Corporate Finance, Accounting and Applied Microeconomics.💭
 
