@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-Welcome to my page!😊
+Welcome to my page! This is Zhichen.😊
 
 I'm currently an Economics student at University of Bonn. This is my second year in Germany and I'm about to graduate next year.🎓
 
